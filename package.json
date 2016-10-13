@@ -5,7 +5,8 @@
   "homepage": "https://fitmi.club",
   "author": "FitMi Team",
   "license": {
-    "type": "MIT"
+    "type": "MIT",
+    "url": "https://github.com/FitMi/FitMi-landing/blob/master/LICENSE"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
